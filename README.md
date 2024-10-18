@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArakaBylon
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning java
+- 👀 I’m interested in system Administration.
+- 🌱 I’m currently learning Cloud computing.
 - 💞️ I’m looking to collaborate on this platform
 - 📫 How to reach me bylonaraka@gmail.com
 
