@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArakaBylon
+- 👋 Hi, I’m Bylon Araka
 - 👀 I’m interested in system Administration.
 - 🌱 I’m currently learning Cloud computing.
 - 💞️ I’m looking to collaborate on this platform
